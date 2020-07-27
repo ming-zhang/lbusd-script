@@ -1,5 +1,3 @@
-# TODO
-
 # How This Repo Works
 
 1. Go to [https://script.google.com/home/usersettings] with your LBUSD Google account.
