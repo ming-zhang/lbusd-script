@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@google/clasp": "1.6.3",
+    "@types/google-apps-script": "0.0.30",
+    "prettier": "1.14.3"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
+  }
+}
